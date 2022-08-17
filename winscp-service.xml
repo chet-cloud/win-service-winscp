@@ -1,0 +1,8 @@
+<service>
+  <id>winscp-server-mirror</id>
+  <name>winscp server mirror</name>
+  <description>keep the local file up to date with remote server</description>
+  <executable>C:\winscp\winscp_run.bat</executable>
+  <logpath>C:\winscp\logs</logpath>
+  <logmode>roll</logmode>
+</service> 

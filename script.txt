@@ -1,0 +1,3 @@
+open ftps://{ftp_username}:{ftp_password}@{ftp_url}/
+synchronize local -delete C:\Sync /site/wwwroot/public
+exit
